@@ -13,6 +13,7 @@ Submissions of all problem statement solutions.
 | Hackasauras | [Drawisly](https://github.com/SobhanSah00/iiit_bbsrDrawisly) |
 | Kon'nichiwa sekai | [PromptBuddy](https://github.com/manaspros/code) |
 | Raccoon Fanclub | [Codemia](https://github.com/maaaazin/Codemia) |
+| AgroFast | [VedaScore](https://github.com/ankit071105/VedaScore) |
 | Mind meld | [Digital_ta](https://github.com/PriyanAcharya/digtial_ta) |
 | Highlanders | [AFTERPACKETS](https://github.com/PrashamJ17/AfterPackets) |
 | GITLERS | [swapp](https://github.com/PreetiPMishra-Codes/swapp) |
